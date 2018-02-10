@@ -26,7 +26,7 @@
     "body-parser": "1.15.2",
     "cookie-parser": "1.4.3",
     "docopt": "0.6.2",
-    "express": "4.14.0",
+    "express": "^4.14.0",
     "express-session": "1.14.2",
     "iphb-logs": "0.0.18",
     "jsdoc": "git+https://github.com/Beginnerprise/jsdoc.git",
