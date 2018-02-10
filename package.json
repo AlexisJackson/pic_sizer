@@ -1,7 +1,7 @@
 {
-  "name": "node_boilerplate",
+  "name": "pic_sizer",
   "version": "1.0.0",
-  "description": "An opinionated boiler plate for node modules.",
+  "description": "A picture resizing tool.",
   "main": "./lib/api.js",
   "directories": {
     "test": "tests"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Beginnerprise/node_boilerplate.git"
+    "url": "git+https://github.com/AlexisJackson/pic_sizer.git"
   },
-  "author": "Benjamin Hudgens",
+  "author": "Alexis Jackson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Beginnerprise/node_boilerplate/issues"
+    "url": "https://github.com/AlexisJackson/pic_sizer/issues"
   },
-  "homepage": "https://github.com/Beginnerprise/node_boilerplate#readme",
+  "homepage": "https://github.com/AlexisJackson/pic_sizer#readme",
   "dependencies": {
     "apidoc": "git+https://github.com/Beginnerprise/apidoc.git",
     "body-parser": "1.15.2",
